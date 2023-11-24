@@ -1,0 +1,156 @@
+when 597 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 598 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 599 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 600 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 601 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 602 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 603 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 604 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 605 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 606 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 607 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 608 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 609 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 610 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 611 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 612 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 613 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 614 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 615 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 616 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 617 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 618 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 619 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 620 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 621 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
+when 622 =>
+if count < step then
+count <= count + 1; frecuencyController <= zz;
+else
+steper <= steper + 1; count <= 0;
+end if;
